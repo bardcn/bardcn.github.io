@@ -18,6 +18,7 @@ public class HelloWorld {
 ```java
 // this的本质：代表方法调用者的地址值
 
+// 
 StringJoiner stj = new StringJoiner(",");
 stj.add("大张");
 stj.add("Java");
@@ -39,7 +40,7 @@ while(it.hasNext()){
     System.out.println(obj);
 }
 
-// 
+// generics
 public class GenericClass<T> {
     private T value;
 
