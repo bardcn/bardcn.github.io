@@ -6,14 +6,7 @@ category: code
 layout: post
 ---
 
-```java
-// HelloWorld.java
-public class HelloWorld {
-    public static void main(String[] args) {
-        System.out.println("Hello world!");
-    }
-}
-```
+
 
 ```java
 // this的本质：代表方法调用者的地址值
@@ -88,6 +81,14 @@ public class server
         jFrame.setLocationRelativeTo(null);
         jFrame.setVisible(true);
         jFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+    }
+}
+```
+```java
+// HelloWorld.java
+public class HelloWorld {
+    public static void main(String[] args) {
+        System.out.println("Hello world!");
     }
 }
 ```
