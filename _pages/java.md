@@ -1,5 +1,5 @@
 ---
-title: Core Java
+title: Java语法
 author: Zhang
 date: 2022-08-01
 category: code
