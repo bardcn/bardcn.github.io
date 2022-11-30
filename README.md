@@ -1,6 +1,6 @@
 ---
 layout: home
-title: 大张Java笔记
+title: 个人简历
 permalink: /
 ---
 
